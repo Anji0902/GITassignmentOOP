@@ -5,7 +5,7 @@ public class ClassMain {
 	    public static void main(String[]args) {
 
 	    	//calling from get/set method for car1 
-	
+		//create a object of a class
 	  Car car1=new Car(); 
 	  car1.setSpeed(240); 
 	  System.out.println("Car1 Speed:" +car1.speed);
